@@ -27,7 +27,7 @@ int main()
 
     int counterDay; // кол-во дней
     int average; // Средняя температура
-    int min_temp = 0; // Минимальная температура
+    int min_temp = 1000; // Минимальная температура
     int max_temp = 0; // Максимальная температура
     int valueTemperature;
     vector<int> sorted_vector;
